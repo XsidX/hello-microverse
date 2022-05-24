@@ -12,8 +12,8 @@
 👤 **Author1**
 
 - GitHub: [@XsidX](https://github.com/XsidX)
-- Twitter: [@twitterhandle](https://twitter.com/_sid_o)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
+- Twitter: [@\_sid_o](https://twitter.com/_sid_o)
+- LinkedIn: [sidney-kaguli](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
 
 ## 🤝 Contributing
 
